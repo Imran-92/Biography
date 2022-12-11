@@ -1,3 +1,7 @@
 body {
     background-color: rgb(214, 112, 45);
 }
+.image {position: relative;
+    left: 200px;
+    
+    ;}
